@@ -226,26 +226,16 @@
 .services-cta {
   margin: 70px 8%;
   padding: 45px 50px;
-  background: #17464c;
+
   border-radius: 18px;
   color: white;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   gap: 30px;
 }
 
-.services-cta p {
-  color: #70ddd5;
-  font-size: 13px;
-  font-weight: bold;
-  letter-spacing: 2px;
-}
 
-.services-cta h2 {
-  font-size: 30px;
-  margin: 10px 0 0;
-}
 
 .services-cta a {
   background: #159a91;

@@ -210,14 +210,7 @@ function About() {
 
       <section className="about-cta">
 
-        <div>
-          <p>READY FOR A HEALTHIER SMILE?</p>
-
-          <h2>
-            Let's Take Care Of Your Smile
-          </h2>
-        </div>
-
+        
         <Link to="/appointment">
           Book Appointment →
         </Link>

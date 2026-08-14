@@ -285,13 +285,7 @@ function Services() {
 
       <section className="services-cta">
 
-        <div>
-          <p>READY TO TAKE CARE OF YOUR SMILE?</p>
-
-          <h2>
-            Find The Right Treatment For You
-          </h2>
-        </div>
+       
 
         <Link to="/appointment">
           Book Appointment →

@@ -257,25 +257,14 @@
 .directory-cta {
   margin: 20px 8% 70px;
   padding: 45px 50px;
-  background: #e9f8f6;
+
   border-radius: 18px;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   gap: 30px;
 }
-.directory-cta p {
-  color: #159a91;
-  font-size: 13px;
-  font-weight: bold;
-  letter-spacing: 2px;
-}
 
-.directory-cta h2 {
-  color: #17464c;
-  font-size: 30px;
-  margin: 10px 0 0;
-}
 
 .directory-cta a {
   background: #159a91;

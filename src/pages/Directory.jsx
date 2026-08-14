@@ -156,16 +156,10 @@ function Directory() {
 
       <section className="directory-cta">
 
-        <div>
-          <p>READY TO VISIT?</p>
-
-          <h2>
-            Schedule Your Dental Consultation
-          </h2>
-        </div>
+       
 
         <Link to="/appointment">
-          Book Appointment
+          Book Appointment →
         </Link>
 
       </section>
