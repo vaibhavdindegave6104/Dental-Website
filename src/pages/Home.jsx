@@ -215,7 +215,7 @@ function Home() {
 
         <div className="section-heading">
           <p>OUR Doctor</p>
-          <h2>Meet Our Dental Experts</h2>
+          <h2>Meet Our Dental Expert</h2>
           <span>
             Our experienced dental professionals are dedicated
             to giving you the best possible care.
@@ -241,7 +241,7 @@ function Home() {
         </div>
 
         <Link to="/directory" className="view-doctors">
-          View More info about Doctors
+          View More info about Doctor
         </Link>
 
       </section>
