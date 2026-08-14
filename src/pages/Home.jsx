@@ -324,7 +324,7 @@ function Home() {
               "I brought my child here and the dentist was very
               patient and caring. Highly recommended."
             </p>
-            <h4>— Rohit Durghe</h4>
+            <h4>—  Jay Swami</h4>
           </div>
 
         </div>
